@@ -51,8 +51,8 @@ I’ve worked on multiple **business-focused projects**, applying analytics to s
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshumanB08&show_icons=true&theme=radical" alt="GitHub Stats" width="44%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshumanB08&theme=radical" alt="GitHub Streak" width="46%"/>
 </p>  
 
 ---
