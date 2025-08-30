@@ -10,26 +10,26 @@ I’ve worked on multiple **business-focused projects**, applying analytics to s
 ## 🛠️ Skills & Tools  
 
 - 📊 **Data Visualization**: Power BI, Excel, Matplotlib, Seaborn  
-- 🗄️ **Databases**: SQL Server, Oracle, MySQL  
+- 🗄️ **Databases**: MySQL, SQL Server, Oracle  
 - 🐍 **Programming**: Python (Pandas, NumPy)  
 - 🔧 **Other Tools**: Git, Postman  
 
-<p align="center">
+<p align="left">
+  <!-- Visualization Tools -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
+  
+  <!-- Databases -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"/>
+  
   <!-- Languages & Libraries -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50"/>
   <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="60"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60"/>
-
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
-
-  <!-- Visualization Tools -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
 
   <!-- Other Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50"/>
