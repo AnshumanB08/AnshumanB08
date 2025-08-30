@@ -25,7 +25,7 @@ I’ve worked on multiple **business-focused projects**, applying analytics to s
 
 ## 🌐 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="https://codebasics.io/portfolio/Anshuman-Bordoloi"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/bordoloi-anshuman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bordoloi.a08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
