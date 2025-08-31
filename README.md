@@ -9,10 +9,10 @@ I’ve worked on multiple **business-focused projects**, applying analytics to s
 
 ## 🛠️ Skills & Tools  
 
-- 📊 **Data Visualization**: Power BI, Excel, Matplotlib, Seaborn  
-- 🗄️ **Databases**: MySQL, SQL Server, Oracle  
-- 🐍 **Programming**: Python (Pandas, NumPy)  
-- 🔧 **Other Tools**: Git, Postman  
+- **Data Visualization**: Power BI, Excel, Matplotlib, Seaborn  
+- **Databases**: MySQL, SQL Server, Oracle  
+- **Programming**: Python (Pandas, NumPy)  
+- **Other Tools**: Git, Postman  
 
 <p align="left">
   <!-- Visualization Tools -->
