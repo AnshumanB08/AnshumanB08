@@ -1,35 +1,36 @@
-<h1 align="center">🚀 Anshuman Bordoloi</h1>
-<h3 align="center">Aspiring Data Engineer | Analytics Engineer | Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm Anshuman Bordoloi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architectures;Cloud+Native+Analytics+Platforms;Turning+Data+Into+Business+Value"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Pipelines;Real-Time+Streaming+Architectures;Cloud+Native+Analytics+Platforms;Turning+Data+Into+Business+Value"/>
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <a href="https://codebasics.io/portfolio/Anshuman-Bordoloi"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bordoloi-anshuman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bordoloi.a08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me  
 
-I’m **Anshuman Bordoloi**, an aspiring **Data Engineer** focused on designing **high-performance data pipelines**, **real-time streaming systems**, and **cloud-based analytics platforms**.
+I’m an **aspiring Data Engineer** passionate about designing **scalable, reliable, and high-performance data systems**. I specialize in transforming raw data into **business-ready insights** by building automated batch and real-time pipelines on cloud platforms.
 
-I specialize in transforming raw data into **reliable, analytics-ready assets** that power business decisions.
-
----
-
-## ⚡ What I Deliver
-
-✔ End-to-end ETL/ELT pipeline engineering  
-✔ Streaming ingestion using Kafka & Flink  
-✔ Workflow orchestration with Airflow  
-✔ Cloud-native data platforms (AWS & Azure)  
-✔ Business analytics with SQL, Python & BI tools 
+I combine **engineering discipline with analytics thinking** to deliver data solutions that are production-ready, cost-efficient, and insight-driven.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Skills & Technologies  
+
+### Data Engineering Tools  
+> **Snowflake, Databricks, Apache Spark, Apache Airflow, Apache Kafka, Apache Flink, Confluent, Microsoft Azure, AWS, Amazon Redshift, Amazon S3, AWS Glue, AWS Lambda, AWS Athena**  
+
+### Programming & Analytics
+> **Python, SQL, Power BI, Excel**
 
 <p align="center">
 
@@ -45,11 +46,10 @@ I specialize in transforming raw data into **reliable, analytics-ready assets** 
 <img src="https://images.icon-icons.com/2699/PNG/512/apache_flink_logo_icon_168620.png" height="50"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="50"/>
 
-<!-- Databricks -->
-<img src="https://cdn.brandfetch.io/idSUrLOWbH/w/320/h/320/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667650343628" height="50"/>
-
 <!-- Cloud Platforms -->
+<img src="https://cdn.brandfetch.io/idSUrLOWbH/w/320/h/320/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667650343628" height="50"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/snowflake-data-cloud-icon.png" height="50"/>
+<img src="https://1000logos.net/wp-content/uploads/2024/09/Confluent-Emblem-500x281.png" height="50"/>
 <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_Amazon_RedShift-512.png" height="50"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-icon.png" height="50"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="50"/>
@@ -79,37 +79,28 @@ I specialize in transforming raw data into **reliable, analytics-ready assets** 
 
 ---
 
-## 📂 Featured Work
+## 💡 What I Bring to the Table  
 
-I have built multiple **Data Engineering & Analytics projects** covering:
-
-- Cloud-based ETL pipelines  
-- Real-time streaming architectures  
-- Automated workflow orchestration  
-- Business intelligence dashboards  
-
-👉 Explore my repositories to see **production-style implementations and real-world use cases**. 
+✔ End-to-end ETL/ELT pipeline development  
+✔ Batch and real-time streaming architectures  
+✔ Cloud-native data warehouse and lakehouse design  
+✔ Business-focused analytics and reporting  
+✔ Production-grade orchestration and automation  
 
 ---
 
-## 🤝 Connect With Me
+## 📂 Featured Work  
 
-<p align="center">
-  <a href="https://codebasics.io/portfolio/Anshuman-Bordoloi"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bordoloi-anshuman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bordoloi.a08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+I’ve independently built **real-world data engineering and analytics projects** covering:
 
----
+- Cloud Data Pipelines  
+- Streaming Architectures  
+- Lakehouse Implementations  
+- BI Dashboards  
+- Workflow Automation  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnshumanB08&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanB08&layout=compact&theme=tokyonight"/>
-</p>
+Explore my repositories to see **hands-on, production-style implementations**.
 
 ---
 
-✨ *Always curious, always learning – using data to solve problems and create impact!*  
+⭐ If you find my work valuable, feel free to star the repositories and connect with me!
