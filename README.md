@@ -35,45 +35,45 @@ I combine **engineering discipline with analytics thinking** to deliver data sol
 <p align="center">
 
 <!-- Programming & Databases -->
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="50"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" height="50"/>
-<img src="https://icon-library.com/images/postgresql-icon/postgresql-icon-2.jpg" height="50"/>
-<img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/oracle-auto.svg" height="50"/>
+<img src="https://www.svgrepo.com/show/452091/python.svg" height="50"/>
+<img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" height="50"/>
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="50"/>
+<img src="https://www.svgrepo.com/show/448245/oracle.svg" height="50"/>
 
 <!-- Big Data & Streaming -->
-<img src="https://github.com/github/explore/blob/main/topics/spark/spark.png?raw=true" height="50"/>
+<img src="https://cdn.creazilla.com/vectors/7917954/apache-spark-logo-vector-sm.jpeg" height="50"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" height="50"/>
 <img src="https://images.icon-icons.com/2699/PNG/512/apache_flink_logo_icon_168620.png" height="50"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="50"/>
 
 <!-- Cloud Platforms -->
-<img src="https://cdn.brandfetch.io/idSUrLOWbH/w/320/h/320/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667650343628" height="50"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/dbrx-color.png" height="50"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/snowflake-data-cloud-icon.png" height="50"/>
-<img src="https://1000logos.net/wp-content/uploads/2024/09/Confluent-Emblem-500x281.png" height="50"/>
-<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_Amazon_RedShift-512.png" height="50"/>
+<img src="https://companieslogo.com/img/orig/CFLT-c4a50286.png?t=1751857432" height="50"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-icon.png" height="50"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws-color.png" height="50"/>
 
 <!-- AWS Core Services -->
-<img src="https://www.svgrepo.com/show/448270/aws-s3.svg" height="50"/>
+<img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" height="50"/>
 <img src="https://www.awsicon.com/static/images/Service-Icons/Compute/64/png5x/Lambda.png" height="50"/>
 <img src="https://holori.com/wp-content/uploads/2023/04/Arch_AWS-Glue_64.svg" height="50"/>
 <img src="https://www.awsicon.com/static/images/Service-Icons/Analytics/64/png5x/Athena.png" height="50"/>
 
 <!-- Orchestration & Tools -->
-<img src="https://github.com/apache/airflow/raw/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png?raw=true" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" height="50"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" height="50"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="50"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-icon-svg-download-png-225996.png?f=webp&w=256" height="50"/>
 
 <!-- Analytics Libraries -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
-<img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" height="50"/>
 
 <!-- BI -->
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" height="50"/>
 
 </p>
 
