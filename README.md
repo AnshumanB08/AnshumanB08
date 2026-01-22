@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me  
+## 💡 About Me  
 
 I’m an **aspiring Data Engineer** passionate about designing **scalable, reliable, and high-performance data systems**. I specialize in transforming raw data into **business-ready insights** by building automated batch and real-time pipelines on cloud platforms.
 
@@ -79,7 +79,7 @@ I combine **engineering discipline with analytics thinking** to deliver data sol
 
 ---
 
-## 💡 What I Bring to the Table  
+## ⚡ What I Bring to the Table  
 
 ✔ End-to-end ETL/ELT pipeline development  
 ✔ Batch and real-time streaming architectures  
@@ -99,8 +99,8 @@ I’ve independently built **real-world data engineering and analytics projects*
 - BI Dashboards  
 - Workflow Automation  
 
-Explore my repositories to see **hands-on, production-style implementations**.
+👉 Explore my repositories to see **hands-on, production-style implementations**.
 
 ---
 
-⭐ If you find my work valuable, feel free to star the repositories and connect with me!
+*⭐ If you find my work valuable, feel free to star the repositories and connect with me!*
