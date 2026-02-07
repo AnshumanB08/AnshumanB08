@@ -30,7 +30,7 @@ I combine **engineering discipline with analytics thinking** to deliver data sol
 > **Snowflake, Databricks, Apache Spark, Apache Airflow, Apache Kafka, Apache Flink, Confluent, Microsoft Azure, AWS, Amazon Redshift, Amazon S3, AWS Glue, AWS Lambda, AWS Athena**  
 
 ### Programming & Analytics
-> **Python, PySpark, SQL, Power BI, Excel**
+> **Python, PySpark, SQL, PL/SQL, Power BI, Excel**
 
 <p align="center">
 
