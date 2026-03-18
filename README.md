@@ -27,7 +27,7 @@ I combine **engineering discipline with analytics thinking** to deliver data sol
 ## 🛠️ Skills & Technologies  
 
 ### Data Engineering Tools  
-> **Snowflake, Databricks, Apache Spark, Apache Airflow, Apache Kafka, Apache Flink, Confluent, Microsoft Azure, AWS, Amazon Redshift, Amazon S3, AWS Glue, AWS Lambda, AWS Athena**  
+> **Snowflake, Databricks, Apache Spark, Apache Airflow, Apache Kafka, Apache Flink, Confluent, Microsoft Azure, AWS, Amazon Redshift, Amazon S3, AWS Glue, AWS Lambda, AWS Athena, AWS DynamoDB**  
 
 ### Programming & Analytics
 > **Python, PySpark, SQL, PL/SQL, Power BI, Excel**
@@ -58,6 +58,7 @@ I combine **engineering discipline with analytics thinking** to deliver data sol
 <img src="https://www.awsicon.com/static/images/Service-Icons/Compute/64/png5x/Lambda.png" height="50"/>
 <img src="https://holori.com/wp-content/uploads/2023/04/Arch_AWS-Glue_64.svg" height="50"/>
 <img src="https://www.awsicon.com/static/images/Service-Icons/Analytics/64/png5x/Athena.png" height="50"/>
+<img src="https://www.svgrepo.com/show/353450/aws-dynamodb.svg" height="50"/>
 
 <!-- Orchestration & Tools -->
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" height="50"/>
