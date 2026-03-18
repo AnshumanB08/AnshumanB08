@@ -27,7 +27,7 @@ I combine **engineering discipline with analytics thinking** to deliver data sol
 ## 🛠️ Skills & Technologies  
 
 ### Data Engineering Tools  
-> **Snowflake, Databricks, Apache Spark, Apache Airflow, Apache Kafka, Apache Flink, Confluent, Microsoft Azure, AWS, Amazon Redshift, Amazon S3, AWS Glue, AWS Lambda, AWS Athena, AWS DynamoDB**  
+> **Snowflake, Databricks, Apache Spark, Apache Airflow, Apache Kafka, Apache Flink, Confluent, Microsoft Azure, AWS, Amazon S3, AWS Glue, AWS Lambda, Amazon Redshift, AWS Athena, AWS DynamoDB**  
 
 ### Programming & Analytics
 > **Python, PySpark, SQL, PL/SQL, Power BI, Excel**
@@ -53,10 +53,10 @@ I combine **engineering discipline with analytics thinking** to deliver data sol
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws-color.png" height="50"/>
 
 <!-- AWS Core Services -->
-<img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" height="50"/>
 <img src="https://www.awsicon.com/static/images/Service-Icons/Compute/64/png5x/Lambda.png" height="50"/>
 <img src="https://holori.com/wp-content/uploads/2023/04/Arch_AWS-Glue_64.svg" height="50"/>
+<img src="https://icon.icepanel.io/AWS/svg/Analytics/Redshift.svg" height="50"/>
 <img src="https://www.awsicon.com/static/images/Service-Icons/Analytics/64/png5x/Athena.png" height="50"/>
 <img src="https://www.svgrepo.com/show/353450/aws-dynamodb.svg" height="50"/>
 
